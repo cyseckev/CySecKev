@@ -62,8 +62,6 @@
 ---
 
 ## 📫 Contact
-- 🌐 Portfolio: *coming soon*  
-- 💼 LinkedIn: *(optional, falls du es verknüpfen willst)*  
 - ✉️ Email: *(optional Business-Mail)*  
 
 ---
