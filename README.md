@@ -16,7 +16,7 @@ while combining this journey with my **years of private, hands-on experience in 
 
 ---
 
-💻 My daily focus:  
+## 💻 My daily focus:  
 - **Linux Security, Exploitation & Secure Coding**  
 - **Red Teaming, Pentesting & Lab Environments**  
 - **Anonymity Layers, VPN/TOR-Chains & Encryption**  
