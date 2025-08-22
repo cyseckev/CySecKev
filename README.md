@@ -16,7 +16,7 @@ while combining this journey with my **years of private, hands-on experience in 
 
 ---
 
-## 💻 My daily focus:  
+## 💻 My Focus:  
 - **Linux Security, Exploitation & Secure Coding**  
 - **Red Teaming, Pentesting & Lab Environments**  
 - **Anonymity Layers, VPN/TOR-Chains & Encryption**  
@@ -47,6 +47,8 @@ while combining this journey with my **years of private, hands-on experience in 
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Tails](https://img.shields.io/badge/-Tails%20OS-56347C?logo=tails&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Linux Server](https://img.shields.io/badge/-Linux%20Server-FCC624?logo=linux&logoColor=black)
 
 **Security & Networking Tools**  
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?logo=gnometerminal&logoColor=white)
@@ -54,26 +56,36 @@ while combining this journey with my **years of private, hands-on experience in 
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)
 ![TOR](https://img.shields.io/badge/-TOR%20Network-7E4798?logo=tor-project&logoColor=white)
-![SSH](https://img.shields.io/badge/-SSH-000000?logo=openssh&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-FCC624?logo=openssh&logoColor=white)
+![RDP](https://img.shields.io/badge/-RDP-0078D6?logo=microsoft&logoColor=white)
 
 **Scripting & Development**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-2E3440?logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-ZSH-89E051?logo=gnu-bash&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CySecKev&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CySecKev&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CySecKev&theme=radical&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CySecKev&show_icons=true&theme=radical&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CySecKev&theme=radical&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CySecKev&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<br>
+
+</div>
 
 
 ## 🚀 Vision
@@ -83,7 +95,7 @@ while combining this journey with my **years of private, hands-on experience in 
 ---
 
 ## 📂 Highlighted Projects
-1. 🔒 [**Qubes-OS Security Checklist**](https://github.com/CySecKev/Qubes-OS-Security-Checklist) – Hardened OPSEC for maximum anonymity  
+1. 🔒 [**Qubes-OS Security Checklist**](https://github.com/CySecKev/Qubes-OS-Security-Checklist) – Hardened OPSEC for more anonymity  
 2. 📑 [**Linux OPSEC Templates**](https://github.com/CySecKev/Linux-OPSEC-Templates) – Secure & minimalistic templates for daily use  
 3. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
 4. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense   
@@ -91,7 +103,10 @@ while combining this journey with my **years of private, hands-on experience in 
 ---
 
 ## 📫 Contact
-- ✉️ Email: *cyseckev@proton.me*  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/CySecKev)
+[![Email](https://img.shields.io/badge/-Email-7E4798?logo=microsoft-outlook&logoColor=white)](mailto:cyseckev@proton.me)
+
+<br>
 
 <!-- Footer -->
 <p align="center">
