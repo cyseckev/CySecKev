@@ -62,7 +62,7 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: *(optional Business-Mail)*  
+- ✉️ Email: *cyseckev@proton.me*  
 
 ---
 
