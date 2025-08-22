@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3D444D&text=🛡️CYBERSECURITY🛡️&reversal=false&textBg=false&fontColor=00ff00&fontAlign=48&fontAlignY=30&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0"/>
 </p>
 
----
 
 ## 👋 About Me
 🔐 I'm **CySecKev** – a Cybersecurity Specialist passionate about  
@@ -63,8 +62,6 @@
 
 ## 📫 Contact
 - ✉️ Email: *cyseckev@proton.me*  
-
----
 
 <!-- Footer -->
 <p align="center">
