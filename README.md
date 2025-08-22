@@ -55,7 +55,6 @@ while combining this journey with my **years of private, hands-on experience in 
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)
 ![TOR](https://img.shields.io/badge/-TOR%20Network-7E4798?logo=tor-project&logoColor=white)
 ![SSH](https://img.shields.io/badge/-SSH-000000?logo=openssh&logoColor=white)
-![GPG](https://img.shields.io/badge/-GnuPG-0093DD?logo=gnuprivacyguard&logoColor=white)
 
 **Scripting & Development**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
