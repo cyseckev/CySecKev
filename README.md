@@ -91,17 +91,17 @@ while combining this journey with my **years of private, hands-on experience in 
 </div>
 
 
-## 🚀 Vision
-> _"Security is not a destination – it’s a discipline.  
-> Every line of code, every packet, every system must be hardened."_  
-
----
-
 ## 📂 Highlighted Projects
 1. 🔒 [**Qubes-OS Security Checklist**](https://github.com/CySecKev/Qubes-OS-Security-Checklist) – Hardened OPSEC for more anonymity  
 2. 📑 [**Linux OPSEC Templates**](https://github.com/CySecKev/Linux-OPSEC-Templates) – Secure & minimalistic templates for daily use  
 3. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
 4. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense   
+
+---
+
+## 🚀 Vision
+> _"Security is not a destination – it’s a discipline.  
+> Every line of code, every packet, every system must be hardened."_  
 
 ---
 
