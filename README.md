@@ -106,9 +106,8 @@ while combining this journey with my **years of private, hands-on experience in 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/CySecKev)
 [![Email](https://img.shields.io/badge/-Email-7E4798?logo=microsoft-outlook&logoColor=white)](mailto:cyseckev@proton.me)
 
-<br>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3D444D&reversal=false&textBg=false&fontColor=00ff00&fontAlign=0&fontAlignY=0&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3D444D&reversal=false&textBg=false&fontColor=00ff00&fontAlign=0&fontAlignY=0&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0&section=footer"/>
 </p>
