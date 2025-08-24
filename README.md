@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner3.gif?raw=true" 
        alt="Animated Cybersecurity Banner" 
-       width="800"/>
+       width="700"
+       height="150"/>
 </p>
 
 <div align="center">
