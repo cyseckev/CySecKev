@@ -3,10 +3,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner3.gif?raw=true" 
-       alt="Animated Cybersecurity Banner" 
-       width="700"
-       height="150"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3d444d&text=🛡️CYBERSECURITY🛡️&fontColor=00ff00&fontSize=40&fontAlignY=35"/>
 </p>
 
 <div align="center">
@@ -19,6 +16,13 @@ a passionate **Cybersecurity Specialist & Dev in Training**.
 while combining this journey with my **years of private, hands-on experience in IT-Security**.  
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner3.gif?raw=true" 
+       alt="Animated Cybersecurity Banner" 
+       width="700"
+       height="150"/>
+</p>
 
 ---
 
