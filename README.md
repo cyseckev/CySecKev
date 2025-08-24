@@ -101,7 +101,7 @@ while combining this journey with my **years of private, hands-on experience in 
 
 ## 🚀 Vision
 > _"Security is not a destination – it’s a discipline.  
-> Every line of code, every packet, every system must be hardened."_  
+> Every line of code, every packet, every system must be hardened - continuously!"_  
 
 ---
 
