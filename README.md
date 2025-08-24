@@ -127,8 +127,6 @@ while combining this journey with my **years of private, hands-on experience in 
        width="500"/>
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-German-0078D6?style=for-the-badge&logo=discord&logoColor=white" alt="German"/>
   <img src="https://img.shields.io/badge/Community-Active-28A745?style=for-the-badge&logo=discord&logoColor=white" alt="Active Community"/>
