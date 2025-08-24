@@ -115,6 +115,8 @@ while combining this journey with my **years of private, hands-on experience in 
 > Every line of code, every packet, every system must be hardened - continuously!"_  
 ---
 
+<br>
+
 <div align="center">
   
 # ✧˖°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧˖° Discord Community
