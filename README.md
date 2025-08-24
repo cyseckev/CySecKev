@@ -1,6 +1,11 @@
+<!-- START -->
 <!-- Profil Banner -->
+<!-- Header -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3D444D&text=🛡️CYBERSECURITY🛡️&reversal=false&textBg=false&fontColor=00ff00&fontAlign=48&fontAlignY=30&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0"/>
+  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner3.gif?raw=true" 
+       alt="Animated Cybersecurity Banner" 
+       width="800"/>
 </p>
 
 <div align="center">
@@ -158,6 +163,13 @@ while combining this journey with my **years of private, hands-on experience in 
 - Collaborate in a **trusted, professional, and focused community**.  
 - Learn from peers and mentors while contributing your own knowledge.
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner2.gif?raw=true" 
+       alt="Animated Cybersecurity Banner" 
+       width="600"/>
+</p>
 
 ---
 
@@ -165,8 +177,9 @@ while combining this journey with my **years of private, hands-on experience in 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/CySecKev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cyseckev@gmail.com)
 
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3D444D&reversal=false&textBg=false&fontColor=00ff00&fontAlign=0&fontAlignY=0&animation=twinkling&fontSize=40&descAlign=0&descAlignY=0&section=footer"/>
 </p>
+
+<!-- END -->
