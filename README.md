@@ -105,7 +105,17 @@ while combining this journey with my **years of private, hands-on experience in 
 > Every line of code, every packet, every system must be hardened - continuously!"_  
 ---
 
-## 💬 ✧˖°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧˖° Discord Community
+<div align="center">
+  
+## ✧˖°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧˖° Discord Community
+
+</div>
+
+<p align="center">
+  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner.gif?raw=true" 
+       alt="Animated Cybersecurity Banner" 
+       width="600"/>
+</p>
 
 <br>
 
