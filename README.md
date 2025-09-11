@@ -3,7 +3,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3d444d&text=🛡️CYBERSECURITY🛡️&fontColor=00ff00&fontSize=40&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3d444d&text=CYBERSECURITY&fontColor=00ff00&fontSize=40&fontAlignY=30"/>
 </p>
 
 <div align="center">
