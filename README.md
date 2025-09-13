@@ -57,8 +57,8 @@ while combining this journey with my **years of private, hands-on experience in 
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
 ![Tails](https://img.shields.io/badge/-Tails%20OS-56347C?logo=tails&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-Linux%20Server-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/🪟_Windows-0078D6?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/🪟_Windows%20Server-0078D6?logo=windows&logoColor=white)
 
 **Security & Networking Tools**  
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?logo=gnometerminal&logoColor=white)
@@ -67,16 +67,17 @@ while combining this journey with my **years of private, hands-on experience in 
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)
-![SSH](https://img.shields.io/badge/-SSH-FCC624?logo=openssh&logoColor=white)
-![RDP](https://img.shields.io/badge/-RDP-0078D6?logo=microsoft&logoColor=white)
+![SSH](https://img.shields.io/badge/🔑_SSH-444444?logo=openssh&logoColor=white)
+![RDP](https://img.shields.io/badge/🖥️_RDP-0078D6?logo=microsoft&logoColor=white)
 
 **Scripting & Development**  
 ![Bash](https://img.shields.io/badge/-Bash-2E3440?logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-ZSH-89E051?logo=gnu-bash&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/🪟_PowerShell-012456?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/💠_CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
@@ -107,6 +108,7 @@ while combining this journey with my **years of private, hands-on experience in 
 3. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
 4. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense  
 5. 🛡️ [**Linux Sec Hardener**](https://github.com/CySecKev/Linux-Sec-Hardener) – Automated Linux hardening & auditing (sysctl, SSH, firewall, logging)
+6. ⚡ [**Disable-Windows-Telemetry-Data-Collection**](https://github.com/CySecKev/Disable-Windows-Telemetry-Data-Collection) – PowerShell scripts to harden Windows privacy & disable telemetry
 
 ---
 
