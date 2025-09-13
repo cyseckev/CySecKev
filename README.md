@@ -108,7 +108,7 @@ while combining this journey with my **years of private, hands-on experience in 
 3. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
 4. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense  
 5. 🛡️ [**Linux Sec Hardener**](https://github.com/CySecKev/Linux-Sec-Hardener) – Automated Linux hardening & auditing (sysctl, SSH, firewall, logging)
-6. ⚡ [**Disable-Windows-Telemetry-Data-Collection**](https://github.com/CySecKev/Disable-Windows-Telemetry-Data-Collection) – PowerShell scripts to harden Windows privacy & disable telemetry
+6. ⚡ [**Disable-Windows-Telemetry-Data-Collection**](https://github.com/CySecKev/Disable-Windows-Telemetry-Data-Collection) – Windows privacy & disable telemetry (PowerShell
 
 ---
 
