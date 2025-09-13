@@ -102,12 +102,12 @@ while combining this journey with my **years of private, hands-on experience in 
 
 
 ## 📂 Highlighted Projects
-1. 🔒 [**Qubes-OS Security Checklist**](https://github.com/CySecKev/Qubes-OS-Security-Checklist) – Hardened OPSEC for more anonymity  
-2. 📑 [**Linux OPSEC Templates**](https://github.com/CySecKev/Linux-OPSEC-Templates) – Secure & minimalistic templates for daily use  
-3. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
-4. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense  
-5. 🛡️ [**Linux Sec Hardener**](https://github.com/CySecKev/Linux-Sec-Hardener) – Automated Linux hardening & auditing (sysctl, SSH, firewall, logging)
-6. ⚡ [**Disable Windows Telemetry & Data-Collection**](https://github.com/CySecKev/Disable-Windows-Telemetry-Data-Collection) – Harden Windows privacy & disable telemetry
+1. ⚡ [**Disable Windows Telemetry & Data-Collection**](https://github.com/CySecKev/Disable-Windows-Telemetry-Data-Collection) – Harden Windows privacy & disable telemetry
+2. 🔒 [**Qubes-OS Security Checklist**](https://github.com/CySecKev/Qubes-OS-Security-Checklist) – Hardened OPSEC for more anonymity  
+3. 📑 [**Linux OPSEC Templates**](https://github.com/CySecKev/Linux-OPSEC-Templates) – Secure & minimalistic templates for daily use  
+4. 🌐 [**VPN & Tor Chains Templates**](https://github.com/CySecKev/VPN-Tor-Chains-Templates) – Layered anonymity setups for resilient privacy  
+5. 📡 [**Network Security Toolkit**](https://github.com/CySecKev/Network-Security-Toolkit) – Scripts & tools for traffic analysis and defense  
+6. 🛡️ [**Linux Sec Hardener**](https://github.com/CySecKev/Linux-Sec-Hardener) – Automated Linux hardening & auditing (sysctl, SSH, firewall, logging)
 
 ---
 
