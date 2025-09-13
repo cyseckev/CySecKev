@@ -125,9 +125,9 @@ while combining this journey with my **years of private, hands-on experience in 
 </div>
 
 <p align="center">
-  <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner.gif?raw=true" 
+  <img src="https://raw.githubusercontent.com/cyseckev/CySecKev/refs/heads/uploads/cybersecurity.gif" 
        alt="Animated Cybersecurity Banner" 
-       width="500"/>
+       width="200"/>
 </p>
 
 <p align="center">
