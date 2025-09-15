@@ -120,7 +120,7 @@ while combining this journey with my **years of private, hands-on experience in 
 
 <div align="center">
   
-# ✧˖°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧˖° Discord Community
+# ✧°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧° Discord Community
 
 </div>
 
