@@ -118,59 +118,6 @@ while combining this journey with my **years of private, hands-on experience in 
 
 <br>
 
-<div align="center">
-  
-# ✧°𝕮𝐲𝖇𝖊𝖗𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝐲✧° Discord Community
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyseckev/CySecKev/refs/heads/uploads/cybersecurity.gif" 
-       alt="Animated Cybersecurity Banner" 
-       width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-German-0078D6?style=for-the-badge&logo=discord&logoColor=white" alt="German"/>
-  <img src="https://img.shields.io/badge/Community-Active-28A745?style=for-the-badge&logo=discord&logoColor=white" alt="Active Community"/>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-6f42c1?style=for-the-badge&logo=discord&logoColor=white" alt="Cybersecurity"/>
-</p>
-
-> **Welcome to our German-speaking Cybersecurity Discord-Server**, a professional hub for enthusiasts, ethical hackers, and Linux developers. Our mission is to **empower security-minded individuals** through knowledge sharing, collaboration, and hands-on practice.  
-
-### 🔹 Highlights of Our Server:
-
-| 🔐 Security | 🛠️ Tools & Labs | 📰 News & Alerts | 🎯 Challenges |
-|-------------|----------------|----------------|---------------|
-| **OPSEC & Anonymity:** VPN/TOR chains, secure system configs, Qubes OS & Linux hardening tips | **Scripts & Tools:** Share Python, Bash, Red Teaming scripts, pentesting & forensic tools | **Live CVE Feeds & Alerts:** Stay updated on vulnerabilities and security incidents | **CTF & Labs:** Capture-the-flag exercises, security challenges, hands-on labs |
-
-### 💡 Features at a Glance
-- 🌍 **German-language Focus** – Professional environment for German speakers, international members welcome.  
-- 🖥️ **Code & Lab Showcase** – Present your scripts, experiments, and projects.  
-- 🤝 **Community Exchange** – Discuss OPSEC strategies, secure coding, and system hardening.  
-- ⚡ **Real-Time Updates** – Cybersecurity news, vulnerabilities, and alerts as they happen.  
-- 🏆 **Skill Development** – Red Teaming, Pentesting, secure Dev practices, and mentorship opportunities.  
-
-<br>
-
-<p align="center">
-  <a href="https://discord.gg/632HaAUG3K" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Now-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
-         alt="Join Discord" 
-         height="50" 
-         width="250"/>
-  </a>
-</p>
-
-
-### ℹ️ Why Join?
-- Build practical skills in **Red Teaming, Penetration Testing, and Secure Development**.  
-- Stay **ahead of threats** with live feeds and alerts.  
-- Collaborate in a **trusted, professional, and focused community**.  
-- Learn from peers and mentors while contributing your own knowledge.
-
-<br>
-
 <p align="center">
   <img src="https://github.com/cyseckev/CySecKev/blob/uploads/animatedbanner2.gif?raw=true" 
        alt="Animated Cybersecurity Banner" 
